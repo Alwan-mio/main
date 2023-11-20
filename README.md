@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alwanaliyi
+- 👋 Hi, I’m Alwan Aliyi
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning computer science
   <!---
